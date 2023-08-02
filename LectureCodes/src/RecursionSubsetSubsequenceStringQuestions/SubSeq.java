@@ -17,5 +17,6 @@ public class SubSeq {
         subSeq(p,up.substring(1));
 
 
+
     }
 }
