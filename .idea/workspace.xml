@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87605f3b-8902-48a8-a8a3-88c4c58a43cb" name="Changes" comment="Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ce1ab74b-dbc2-4488-a0ba-72bc9a3d2c41" />
+        <option name="url" value="https://github.com/SHV19/SHV-DSA.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/out/production/1 Lecture/CyclicSort/CyclicSorting.class" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2QaipjTrOrAAYYjMhi3WHzHgODK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/harih/Desktop/DSA/1 Lecture&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.ChangelistConflict&quot;,
+    &quot;two.files.diff.last.used.folder&quot;: &quot;C:/Users/harih/Desktop/DSA/1 Lecture/out&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.SubSeq">
+    <configuration name="Pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.InOrder.Pattern6" />
+      <module name="1 Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Patterns.InOrder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort.QuickSort" />
+      <module name="1 Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QuickSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkipCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursionSubsetSubsequenceStringQuestions.SkipCharacter" />
+      <module name="1 Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RecursionSubsetSubsequenceStringQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkipString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursionSubsetSubsequenceStringQuestions.SkipString" />
+      <module name="1 Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RecursionSubsetSubsequenceStringQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubSeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursionSubsetSubsequenceStringQuestions.SubSeq" />
+      <module name="1 Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RecursionSubsetSubsequenceStringQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SubSeq" />
+        <item itemvalue="Application.SkipString" />
+        <item itemvalue="Application.SkipCharacter" />
+        <item itemvalue="Application.Pattern6" />
+        <item itemvalue="Application.QuickSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\harih\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87605f3b-8902-48a8-a8a3-88c4c58a43cb" name="Changes" comment="" />
+      <created>1685598278275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685598278275</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1690774126626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690774126626</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SelectionSort/KeyStrokes.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SelectionSort/KeyStrokes.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SelectionSort/KeyStrokes.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SelectionSort/KeyStrokes.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/InsertionSort/MonkStrings.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/InsertionSort/MonkStrings.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/BubbleSort/TestReveseArrayTraverse.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/BubbleSort/FanMeet.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/CyclicSort/DisapperedNumber.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/BitwiseandNumberSystem/BaseDigit.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/BitwiseandNumberSystem/PowerOf2.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/BitwiseandNumberSystem/APowerB.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/BitwiseandNumberSystem/ReverseArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/MathForDSA/Factors.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/MathForDSA/SquareRoot.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/RecursionQuestions/Level1/PrintNum.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/RecursionQuestions/Level1/Fact.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/InsertionSort/MonkStrings.java</url>
+          <line>45</line>
+          <properties class="InsertionSort.MonkStrings">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/BubbleSort/MaxMin.java</url>
+          <line>51</line>
+          <properties class="BubbleSort.MaxMin" method="opFunc">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/CyclicSort/CyclicSorting.java</url>
+          <line>16</line>
+          <properties class="CyclicSort.CyclicSorting" method="cSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/CyclicSort/MissingNumber.java</url>
+          <line>39</line>
+          <properties class="CyclicSort.MissingNumber" method="swap">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/CyclicSort/MissingNumber.java</url>
+          <line>17</line>
+          <properties class="CyclicSort.MissingNumber" method="missing">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/CyclicSort/DisapperedNumber.java</url>
+          <line>8</line>
+          <properties class="CyclicSort.DisapperedNumber" method="cSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/CyclicSort/FindDuplicate2.java</url>
+          <line>8</line>
+          <properties class="CyclicSort.FindDuplicate2" method="findDuplicate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/CyclicSort/FirstMissingPositive.java</url>
+          <line>10</line>
+          <properties class="CyclicSort.FirstMissingPositive" method="missing">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/Patterns/Pattern3.java</url>
+          <line>37</line>
+          <properties class="Patterns.Pattern3" method="p3">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/Patterns/Pattern5.java</url>
+          <line>7</line>
+          <properties class="Patterns.Pattern5" method="p5">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/Patterns/InOrder/Pattern8.java</url>
+          <line>7</line>
+          <properties class="Patterns.InOrder.Pattern8" method="p8">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/Patterns/InOrder/Pattern12.java</url>
+          <line>7</line>
+          <properties class="Patterns.InOrder.Pattern12" method="p12">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/Recursion/SumOfTriangle.java</url>
+          <line>12</line>
+          <properties class="Recursion.SumOfTriangle" method="sumOfTri">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/Recursion/FirstCapitalLetter.java</url>
+          <line>10</line>
+          <properties class="Recursion.FirstCapitalLetter" method="fc">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/BitwiseandNumberSystem/UniqueEle.java</url>
+          <line>8</line>
+          <properties class="BitwiseandNumberSystem.UniqueEle" method="ans">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/RecursionQuestions/Level1/SumOfDigits.java</url>
+          <line>8</line>
+          <properties class="RecursionQuestions.Level1.SumOfDigits" method="sum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/RecursionQuestions/Level1/CountOfZeros.java</url>
+          <line>10</line>
+          <properties class="RecursionQuestions.Level1.CountOfZeros" method="count">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/RecursionQuestions/RecursionArrays/ArraySortedOrNot.java</url>
+          <line>9</line>
+          <properties class="RecursionQuestions.RecursionArrays.ArraySortedOrNot" method="check">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/RecursionQuestions/RecursionArrays/FindEleAL.java</url>
+          <line>11</line>
+          <properties class="RecursionQuestions.RecursionArrays.FindEleAL" method="findAllELe">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/RecursionQuestions/RecursionArrays/RBS.java</url>
+          <line>40</line>
+          <properties class="RecursionQuestions.RecursionArrays.RBS" method="findRBS">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/RecursionQuestions/PatternsBubbbleSelectionSort/BubbleSort.java</url>
+          <line>13</line>
+          <properties class="RecursionQuestions.PatternsBubbbleSelectionSort.BubbleSort" method="sort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/RecursionQuestions/PatternsBubbbleSelectionSort/SelectionSort.java</url>
+          <line>15</line>
+          <properties class="RecursionQuestions.PatternsBubbbleSelectionSort.SelectionSort" method="sort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/MergeSort/MergeSortRecursive.java</url>
+          <line>13</line>
+          <properties class="MergeSort.MergeSortRecursive" method="mergeSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/MergeSort/MergeSortInPlaceRecursion.java</url>
+          <line>14</line>
+          <properties class="MergeSort.MergeSortInPlaceRecursion" method="mergeSortInplace">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/InsertionSort/InsertionSort.java</url>
+          <line>13</line>
+          <properties class="InsertionSort.InsertionSort" method="Isort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/RecursionSubsetSubsequenceStringQuestions/SkipCharacter.java</url>
+          <line>58</line>
+          <properties class="RecursionSubsetSubsequenceStringQuestions.SkipCharacter">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LectureCodes/src/RecursionSubsetSubsequenceStringQuestions/SkipCharacter.java</url>
+          <line>14</line>
+          <properties class="RecursionSubsetSubsequenceStringQuestions.SkipCharacter" method="ans">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="36" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/1_Lecture$KeyStrokes.ic" NAME="KeyStrokes Coverage Results" MODIFIED="1685949274342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SelectionSort.*</FILTER>
+    </SUITE>
+  </component>
+</project>
