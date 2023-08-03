@@ -1,6 +1,6 @@
 package RecursionSubsetSubsequenceStringQuestions;
 
-public class SubSeq {
+public class SubSeqRecursion {
     public static void main(String[] args) {
             subSeq("","abc");
     }
