@@ -1,4 +1,9 @@
 package RecursionSubsetSubsequenceStringQuestions;
+/*
+Combination
+
+2^N
+*/
 
 public class SubSeqRecursion {
     public static void main(String[] args) {

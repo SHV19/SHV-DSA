@@ -74,8 +74,6 @@ public class SubSeqIterative {
         int end = 0;
         for (int j= 0; j < arr.length;j++) {
             start = 0;
-
-
             if(j>0 && arr[j] == arr[j-1]){
                 start = end+1;
             }
