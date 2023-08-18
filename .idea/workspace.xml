@@ -6,29 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="87605f3b-8902-48a8-a8a3-88c4c58a43cb" name="Changes" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/BubbleSort/FanMeet.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/BubbleSort/FanMeet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/BubbleSort/MaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/BubbleSort/MaxMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/BubbleSort/SavePatient.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/BubbleSort/SavePatient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/BubbleSort/TestReveseArrayTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/BubbleSort/TestReveseArrayTraverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/BubbleSort/bubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/BubbleSort/bubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/CyclicSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/CyclicSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/DisapperedNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/DisapperedNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/FindAllDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/FindAllDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/FindDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/FindDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/FindDuplicate2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/FindDuplicate2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/FirstMissingPositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/FirstMissingPositive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/SetMismatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/SetMismatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/InsertionSort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/InsertionSort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/InsertionSort/MonkStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/InsertionSort/MonkStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/InsertionSort/TestCompareTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/InsertionSort/TestCompareTo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/MergeSort/MergeSortInPlaceRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/MergeSort/MergeSortInPlaceRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/MergeSort/MergeSortRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/MergeSort/MergeSortRecursive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/QuickSort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/QuickSort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/SelectionSort/DescSelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/SelectionSort/DescSelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/SelectionSort/KeyStrokes.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/SelectionSort/KeyStrokes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/SelectionSort/SelectionSortWithoutFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/SelectionSort/SelectionSortWithoutFunc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/SelectionSort/SelectionSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/SelectionSort/SelectionSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/MazeAndBacktracking/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/MazeAndBacktracking/Maze.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,20 +47,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/harih/Desktop/DSA/2 Practice&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.ChangelistConflict&quot;,
-    &quot;two.files.diff.last.used.folder&quot;: &quot;C:/Users/harih/Desktop/DSA/1 Lecture/out&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/harih/Desktop/DSA/1 Lecture",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.ChangelistConflict",
+    "two.files.diff.last.used.folder": "C:/Users/harih/Desktop/DSA/1 Lecture/out"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Maze">
     <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RecusrionFAANGQuestions.Dice" />
@@ -219,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692248960155</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1692336692366</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692336692366</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -605,15 +591,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/MazeAndBacktracking/Maze.java</url>
-          <line>47</line>
-          <properties class="MazeAndBacktracking.Maze" method="pathRet">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="89" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
