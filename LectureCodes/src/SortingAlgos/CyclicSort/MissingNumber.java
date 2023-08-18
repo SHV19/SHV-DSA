@@ -1,7 +1,4 @@
-package CyclicSort;
-
-import java.util.Arrays;
-import java.util.Scanner;
+package SortingAlgos.CyclicSort;
 
 public class MissingNumber {
 

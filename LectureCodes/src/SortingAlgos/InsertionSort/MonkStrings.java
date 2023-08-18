@@ -1,4 +1,4 @@
-package InsertionSort;
+package SortingAlgos.InsertionSort;
 //https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/practice-problems/algorithm/monk-and-nice-strings-3/
 import java.util.Scanner;
 

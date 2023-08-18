@@ -1,4 +1,4 @@
-package CyclicSort;
+package SortingAlgos.CyclicSort;
 
 public class DisapperedNumber {
     public static void main(String[] args) {

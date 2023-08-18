@@ -1,4 +1,4 @@
-package MergeSort;
+package SortingAlgos.MergeSort;
 
 // Merge sorting without creating an extra array, making change in the object itself
 

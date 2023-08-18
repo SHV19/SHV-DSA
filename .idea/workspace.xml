@@ -5,9 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87605f3b-8902-48a8-a8a3-88c4c58a43cb" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/LectureCodes/src/MazeAndBacktracking/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LectureCodes/src/RecusrionFAANGQuestions/Dice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/BubbleSort/FanMeet.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/BubbleSort/FanMeet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/BubbleSort/MaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/BubbleSort/MaxMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/BubbleSort/SavePatient.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/BubbleSort/SavePatient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/BubbleSort/TestReveseArrayTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/BubbleSort/TestReveseArrayTraverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/BubbleSort/bubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/BubbleSort/bubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/CyclicSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/CyclicSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/DisapperedNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/DisapperedNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/FindAllDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/FindAllDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/FindDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/FindDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/FindDuplicate2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/FindDuplicate2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/FirstMissingPositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/FirstMissingPositive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/CyclicSort/SetMismatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/SetMismatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/InsertionSort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/InsertionSort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/InsertionSort/MonkStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/InsertionSort/MonkStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/InsertionSort/TestCompareTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/InsertionSort/TestCompareTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/MergeSort/MergeSortInPlaceRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/MergeSort/MergeSortInPlaceRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/MergeSort/MergeSortRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/MergeSort/MergeSortRecursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/QuickSort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/QuickSort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/SelectionSort/DescSelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/SelectionSort/DescSelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/SelectionSort/KeyStrokes.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/SelectionSort/KeyStrokes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/SelectionSort/SelectionSortWithoutFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/SelectionSort/SelectionSortWithoutFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/SelectionSort/SelectionSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/SortingAlgos/SelectionSort/SelectionSorting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691559872049</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1692248960155</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692248960155</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -205,47 +234,47 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/SelectionSort/KeyStrokes.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/SelectionSort/KeyStrokes.java</url>
           <line>104</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/SelectionSort/KeyStrokes.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/SelectionSort/KeyStrokes.java</url>
           <line>101</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/SelectionSort/KeyStrokes.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/SelectionSort/KeyStrokes.java</url>
           <line>40</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/SelectionSort/KeyStrokes.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/SelectionSort/KeyStrokes.java</url>
           <line>37</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/InsertionSort/MonkStrings.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/InsertionSort/MonkStrings.java</url>
           <line>10</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/InsertionSort/MonkStrings.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/InsertionSort/MonkStrings.java</url>
           <line>12</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/BubbleSort/TestReveseArrayTraverse.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/BubbleSort/TestReveseArrayTraverse.java</url>
           <line>14</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/BubbleSort/FanMeet.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/BubbleSort/FanMeet.java</url>
           <line>37</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/CyclicSort/DisapperedNumber.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/DisapperedNumber.java</url>
           <line>22</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
@@ -290,7 +319,7 @@
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/InsertionSort/MonkStrings.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/InsertionSort/MonkStrings.java</url>
           <line>45</line>
           <properties class="InsertionSort.MonkStrings">
             <option name="EMULATED" value="true" />
@@ -299,7 +328,7 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/BubbleSort/MaxMin.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/BubbleSort/MaxMin.java</url>
           <line>51</line>
           <properties class="BubbleSort.MaxMin" method="opFunc">
             <option name="EMULATED" value="true" />
@@ -308,7 +337,7 @@
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/CyclicSort/CyclicSorting.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/CyclicSorting.java</url>
           <line>16</line>
           <properties class="CyclicSort.CyclicSorting" method="cSort">
             <option name="EMULATED" value="true" />
@@ -317,7 +346,7 @@
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/CyclicSort/MissingNumber.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/MissingNumber.java</url>
           <line>39</line>
           <properties class="CyclicSort.MissingNumber" method="swap">
             <option name="EMULATED" value="true" />
@@ -326,7 +355,7 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/CyclicSort/MissingNumber.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/MissingNumber.java</url>
           <line>17</line>
           <properties class="CyclicSort.MissingNumber" method="missing">
             <option name="EMULATED" value="true" />
@@ -335,7 +364,7 @@
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/CyclicSort/DisapperedNumber.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/DisapperedNumber.java</url>
           <line>8</line>
           <properties class="CyclicSort.DisapperedNumber" method="cSort">
             <option name="EMULATED" value="true" />
@@ -344,7 +373,7 @@
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/CyclicSort/FindDuplicate2.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/FindDuplicate2.java</url>
           <line>8</line>
           <properties class="CyclicSort.FindDuplicate2" method="findDuplicate">
             <option name="EMULATED" value="true" />
@@ -353,7 +382,7 @@
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/CyclicSort/FirstMissingPositive.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/CyclicSort/FirstMissingPositive.java</url>
           <line>10</line>
           <properties class="CyclicSort.FirstMissingPositive" method="missing">
             <option name="EMULATED" value="true" />
@@ -488,7 +517,7 @@
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/MergeSort/MergeSortRecursive.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/MergeSort/MergeSortRecursive.java</url>
           <line>13</line>
           <properties class="MergeSort.MergeSortRecursive" method="mergeSort">
             <option name="EMULATED" value="true" />
@@ -497,7 +526,7 @@
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/MergeSort/MergeSortInPlaceRecursion.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/MergeSort/MergeSortInPlaceRecursion.java</url>
           <line>14</line>
           <properties class="MergeSort.MergeSortInPlaceRecursion" method="mergeSortInplace">
             <option name="EMULATED" value="true" />
@@ -506,7 +535,7 @@
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LectureCodes/src/InsertionSort/InsertionSort.java</url>
+          <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/InsertionSort/InsertionSort.java</url>
           <line>13</line>
           <properties class="InsertionSort.InsertionSort" method="Isort">
             <option name="EMULATED" value="true" />

@@ -1,4 +1,4 @@
-package MergeSort;
+package SortingAlgos.MergeSort;
 
 import java.util.Arrays;
 

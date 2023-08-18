@@ -1,4 +1,4 @@
-package BubbleSort;
+package SortingAlgos.BubbleSort;
 
 public class TestReveseArrayTraverse {
 

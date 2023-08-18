@@ -1,4 +1,4 @@
-package CyclicSort;
+package SortingAlgos.CyclicSort;
 
 public class FindDuplicate {
     public static void main(String[] args) {

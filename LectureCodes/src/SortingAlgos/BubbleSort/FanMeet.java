@@ -1,6 +1,5 @@
-package BubbleSort;
+package SortingAlgos.BubbleSort;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class FanMeet {

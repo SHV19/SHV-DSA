@@ -1,4 +1,4 @@
-package BubbleSort;
+package SortingAlgos.BubbleSort;
 
 import java.util.Arrays;
 
@@ -14,7 +14,8 @@ public class bubbleSort {
     static void bubble(int a[]){
 
         Boolean swapped;
-        for (int i = 0; i <a.length ; i++) {//outro Loop is just like a counter
+        //outro Loop is just like a counter
+        for (int i = 0; i <a.length ; i++) {
             swapped = false;
             //inner Loop
             for (int j = 1; j <a.length-i ; j++) {

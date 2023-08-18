@@ -2,7 +2,7 @@
 
 // Find the max ele in array swap it with the respective position
 
-package SelectionSort;
+package SortingAlgos.SelectionSort;
 import java.util.Arrays;
 
 public class SelectionSorting {

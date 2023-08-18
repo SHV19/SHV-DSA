@@ -1,5 +1,5 @@
-package InsertionSort;
-import java.util.*;
+package SortingAlgos.InsertionSort;
+
 public class TestCompareTo {
     public static void main(String[] args) {
 
