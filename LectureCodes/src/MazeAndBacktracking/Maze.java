@@ -1,6 +1,7 @@
 package MazeAndBacktracking;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class Maze {
 
@@ -13,10 +14,8 @@ public class Maze {
 //        System.out.println(pathRetDiagonal("",3,3));
 
         boolean board[][] = {
-                {true, true, true},
-                {true, true, true},
-                {true, true, true}
-
+                {true, true},
+                {true, true}
         };
 
         pathBacktracking("",board,0,0);
@@ -133,8 +132,6 @@ public class Maze {
             return;
         }
 
-
-
         if(!maze[r][c]){
             return;
         }
@@ -160,9 +157,10 @@ public class Maze {
         }
 
         //Yes i visted this path for this func call
-        //But this func call is exiting, so im deleting the path history
+        //But this func call is exiting, so i'm deleting the path history
         maze[r][c] = true;
     }
+
 
 
 }
