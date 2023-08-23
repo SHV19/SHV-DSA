@@ -2,11 +2,18 @@ package MazeAndBacktracking;
 
 public class NQueens {
     public static void main(String[] args) {
+        int n = 4;
+        boolean board[][] = new boolean[n][n];
+        System.out.println(queens(board,0));
 
     }
     static int queens(boolean board[][], int row){
         if(row == board.length){
+
+            //Over here it will print the possible position
+            // and start continuing the next possibility
             display(board);
+            System.out.println();
             return 1;
         }
 
@@ -19,8 +26,6 @@ public class NQueens {
                 count += queens(board,row+1);
                 board[row][col] = false;
             }
-
-
 
         }
 
@@ -35,6 +40,23 @@ public class NQueens {
             }
         }
 
+        //Check Diagonal Left
+        int maxLeft = Math.min(row,col);
+        for (int i = 1; i <= maxLeft; i++) {
+            if (board[row-i][col-i]){
+                return false;
+            }
+        }
+
+        //Check Diagonal Right
+        int maxRight = Math.min(row,board.length-col-1);
+        for (int i = 1; i <= maxRight; i++) {
+            if (board[row-i][col+i]){
+                return false;
+            }
+        }
+
+        return true;
 
     }
 
@@ -43,13 +65,12 @@ public class NQueens {
         for (boolean[] row : board) {
             for (boolean ele: row){
                 if(ele){
-                    System.out.println("Q ");
+                    System.out.print("Q ");
                 }
                 else{
-                    System.out.println("X ");
+                    System.out.print("X ");
                 }
             }
-
             System.out.println();
         }
     }
