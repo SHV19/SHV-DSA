@@ -38,11 +38,8 @@ public class AllPath {
             return;
         }
 
-
         maze[r][c] = false;
         path[r][c] = step;
-
-
 
         if (r < maze.length-1) {
             allPathPrint(p+'D',maze,r+1,c,path,step+1);
@@ -59,7 +56,6 @@ public class AllPath {
         if (c >0){
             allPathPrint(p+'L',maze,r,c-1,path,step+1);
         }
-
 
         maze[r][c] = true;
         path[r][c] = 0;

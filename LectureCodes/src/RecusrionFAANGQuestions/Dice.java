@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Dice {
     public static void main(String[] args) {
-        dice("",4);
+        dice("",3);
     }
 
     static void dice(String p, int target){

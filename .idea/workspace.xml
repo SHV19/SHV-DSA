@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87605f3b-8902-48a8-a8a3-88c4c58a43cb" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/LectureCodes/src/OOP1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/MazeAndBacktracking/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/MazeAndBacktracking/NQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/MazeAndBacktracking/AllPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/MazeAndBacktracking/AllPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/RecusrionFAANGQuestions/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/RecusrionFAANGQuestions/Dice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +63,13 @@
     &quot;two.files.diff.last.used.folder&quot;: &quot;C:/Users/harih/Desktop/DSA/1 Lecture/out&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NQueens">
-    <configuration name="AllPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MazeAndBacktracking.AllPath" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP1.Main" />
       <module name="1 Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MazeAndBacktracking.*" />
+          <option name="PATTERN" value="OOP1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecusrionFAANGQuestions.Dice" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP1.Main" />
       <module name="1 Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RecusrionFAANGQuestions.*" />
+          <option name="PATTERN" value="OOP1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeypadCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecusrionFAANGQuestions.KeypadCombination" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP1.Main" />
       <module name="1 Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RecusrionFAANGQuestions.*" />
+          <option name="PATTERN" value="OOP1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MazeAndBacktracking.Maze" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP1.Main" />
       <module name="1 Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MazeAndBacktracking.*" />
+          <option name="PATTERN" value="OOP1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MazeAndBacktracking.NQueens" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP1.Main" />
       <module name="1 Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MazeAndBacktracking.*" />
+          <option name="PATTERN" value="OOP1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NQueens" />
-        <item itemvalue="Application.AllPath" />
-        <item itemvalue="Application.Maze" />
-        <item itemvalue="Application.KeypadCombination" />
-        <item itemvalue="Application.Dice" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692687203473</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1692773611683</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692773611683</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
