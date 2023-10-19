@@ -16,7 +16,8 @@ public class Main {
        Student vik = new Student(2,"vik",25.6f);
        Student lol = new Student();
 
-       vik.greetings();
+       shv.changeName("Karthik");
+       shv.greetings();
 
 
 
@@ -41,12 +42,21 @@ class Student {
     void greetings(){
         System.out.println("Hello i'm: " + this.name);
     }
+
+    void changeName(String newName){
+        name = newName;
+    }
     // Modified Constructor
     Student(){
-          this.rno = 123;
+        this.rno = 123;
         this.name = "yea";
         this.marks = 63.4f;
-    } Student(int rno, String name, float marks){
+    }
+
+    // Modified Constructor
+    //Student gg = new Student(12,"gg",53.6f);
+    //here, "this" will be replace with gg
+    Student(int rno, String name, float marks){
         this.rno = rno;
         this.name = name;
         this.marks = marks;
