@@ -22,6 +22,7 @@ public class Premutation {
 
         if(up.isEmpty()){
             System.out.println(p);
+
             return;
         }
 
