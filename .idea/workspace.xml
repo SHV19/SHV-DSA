@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87605f3b-8902-48a8-a8a3-88c4c58a43cb" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/LectureCodes/src/OOP6/ExceptionHandling/Cloning/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LectureCodes/src/OOP6/ExceptionHandling/Cloning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LectureCodes/src/OOP6/ExceptionHandling/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LectureCodes/src/OOP6/ExceptionHandling/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureCodes/src/RecursionSubsetSubsequenceStringQuestions/Premutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/RecursionSubsetSubsequenceStringQuestions/Premutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LectureCodes/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LectureCodes/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,18 +33,18 @@
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SHV19/SHV-DSA.git",
-    "accountId": "a69e6d4c-982e-433f-97ea-e8b54de97ac3"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SHV19/SHV-DSA.git&quot;,
+    &quot;accountId&quot;: &quot;a69e6d4c-982e-433f-97ea-e8b54de97ac3&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/out/production/1 Lecture/CyclicSort/CyclicSorting.class" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2QaipjTrOrAAYYjMhi3WHzHgODK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,13 +55,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Demo.executor": "Run",
+    "Application.ExceptionHandling.Main.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.OOP3.Polymorphism.Main.executor": "Run",
+    "Application.OOP6.ExceptionHandling.Cloning.Main.executor": "Run",
+    "Application.bubbleSort.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/harih/Desktop/DSA/1 Lecture",
+    "last_opened_file_path": "C:/Users/shvms/Desktop/Coding/SHV x Kunal Java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -70,13 +80,13 @@
       <recent name="OOPS.OOP2.OOP1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OOP3.Polymorphism.Main">
-    <configuration name="InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP2.staticExample.InnerClass" />
+  <component name="RunManager" selected="Application.OOP6.ExceptionHandling.Cloning.Main">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP6.ExceptionHandling.Demo" />
       <module name="1 Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP2.staticExample.*" />
+          <option name="PATTERN" value="OOP6.ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,15 +94,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP2.SingleTon.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="1 Lecture" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP2.SingleTon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP3.Polymorphism.Numbers" />
+    <configuration name="OOP6.ExceptionHandling.Cloning.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP6.ExceptionHandling.Cloning.Main" />
       <module name="1 Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP3.Polymorphism.*" />
+          <option name="PATTERN" value="OOP6.ExceptionHandling.Cloning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOP3.Polymorphism.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP3.Polymorphism.Main" />
+    <configuration name="OOP6.ExceptionHandling.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP6.ExceptionHandling.Main" />
       <module name="1 Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP3.Polymorphism.*" />
+          <option name="PATTERN" value="OOP6.ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOP3.inheritance.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP3.inheritance.Main" />
+    <configuration name="bubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingAlgos.BubbleSort.bubbleSort" />
       <module name="1 Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP3.inheritance.*" />
+          <option name="PATTERN" value="SortingAlgos.BubbleSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OOP3.Polymorphism.Main" />
-        <item itemvalue="Application.Numbers" />
-        <item itemvalue="Application.OOP3.inheritance.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.InnerClass" />
+        <item itemvalue="Application.OOP6.ExceptionHandling.Cloning.Main" />
+        <item itemvalue="Application.OOP6.ExceptionHandling.Main" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.bubbleSort" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -653,7 +657,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/LectureCodes/src/SortingAlgos/InsertionSort/InsertionSort.java</url>
           <line>13</line>
-          <properties class="SortingAlgos.InsertionSort.InsertionSort">
+          <properties class="SortingAlgos.InsertionSort.InsertionSort" method="Isort">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -737,17 +741,6 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="outer.get(2)" />
-        <watch expression="outer.get(6)" />
-        <watch expression="internal.get(0)" />
-        <watch expression="outer" />
-        <watch expression="outer" />
-        <watch expression="digit" />
-        <watch expression="list" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
